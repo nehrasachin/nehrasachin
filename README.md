@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nehrasachin
 - 👀 I’m interested in UI/UX and Front-End Web Development
 - 🌱 I’m currently learning HTML,CSS,JS, SASS, React and UI/UX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Upwork
 - 📫 How to reach me - Email sachinssj3@gmail.com
 
 <!---
